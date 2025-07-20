@@ -2,6 +2,8 @@
 
 This repository contains an Android application to turn your Nook e-reader into a TRMNL display client.
 
+<kdb><img src="https://github.com/GLdashboard/trmnl-nook/blob/main/images/trmnl-nook.png" width="650px"></kdb>
+
 ## Acknowledgements
 - TRMNL team for the API
 - Nook development community
@@ -71,7 +73,7 @@ Why a custom launcher is necessary:
 - Essential for accessing TRMNL client app
 
 ### Step 6: Install trmnl-nook Client
-1. Download and install the trmnl-nook APK
+1. Download and install the trmnl-nook APK (under the releases section)
 2. Make sure to grant write system settings permission to the trmnl-nook app. This is necessary to put the device into deep sleep and to modify the default maximum screen timeout of 1 hour.
     1. Navigate to the system settings application
     2. Apps and Notifications > Advanced > Special app access > Modify system settings > Enable for trmnl-nook
