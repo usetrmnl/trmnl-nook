@@ -5,8 +5,8 @@ This repository contains an Android application to turn your Nook e-reader into 
 <kdb>
   <div style="display: flex; justify-content: space-between; width: 900px;">
     <img src="https://github.com/GLdashboard/trmnl-nook/blob/main/images/trmnl-nook.png?raw=true" width="300px">
-    <img src="https://github.com/GLdashboard/trmnl-nook/blob/main/images/trmnl-nook2.png?raw=true" width="300px">
     <img src="https://github.com/GLdashboard/trmnl-nook/blob/main/images/trmnl-nook3.png?raw=true" width="300px">
+    <img src="https://github.com/GLdashboard/trmnl-nook/blob/main/images/trmnl-nook2.png?raw=true" width="600px">
   </div>
 </kdb>
 
