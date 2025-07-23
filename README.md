@@ -3,10 +3,11 @@
 This repository contains an Android application to turn your Nook e-reader into a TRMNL display client.
 
 <kdb>
-  <div style="display: flex; justify-content: space-between; width: 900px;">
-    <img src="https://github.com/usetrmnl/trmnl-nook/blob/main/images/trmnl-nook.png?raw=true" width="300px">
-    <img src="https://github.com/usetrmnl/trmnl-nook/blob/main/images/trmnl-nook3.png?raw=true" width="300px">
-    <img src="https://github.com/usetrmnl/trmnl-nook/blob/main/images/trmnl-nook2.png?raw=true" width="600px">
+  <div style="display: flex; justify-content: space-between; width: 800px;">
+    <img src="https://github.com/usetrmnl/trmnl-nook/blob/main/images/trmnl-nook6.png?raw=true" width="900px">
+    <img src="https://github.com/usetrmnl/trmnl-nook/blob/main/images/trmnl-nook4.png?raw=true" height="260px">
+    <img src="https://github.com/usetrmnl/trmnl-nook/blob/main/images/trmnl-nook5.png?raw=true" height="260px">
+    <img src="https://github.com/usetrmnl/trmnl-nook/blob/main/images/trmnl-nook3.png?raw=true" height="260px">
   </div>
 </kdb>
 
