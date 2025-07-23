@@ -228,6 +228,9 @@ To put the device into deep sleep after updating the display, we use the power_e
 ## Troubleshooting
 
 ### Issues
+- **Display update issues**:
+    - Currently, waking the device from deep sleep is very finnicky. Sometimes it will go a few days without issue, but other times it stops updating several times throughout the day. Looking for a more reliable way to wake the device, but in the meantime, if you notice it stopped updating, pressing any of the page turn buttons should trigger an update and fix the issue. 
+
 - **Power management**:
     - Verify WRITE_SETTINGS permission
 
