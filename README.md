@@ -1,4 +1,4 @@
-# Turn Your Nook Glowlight 4 (and possibly other models) into a TRMNL Display Client
+# Turn Your Nook into a TRMNL Display Client
 
 This repository contains an Android application to turn your Nook e-reader into a TRMNL display client.
 
@@ -20,6 +20,8 @@ This repository contains an Android application to turn your Nook e-reader into 
 
 ## Reported Working On
 - Nook Glowlight 4
+
+For **Nook Simple Touch (BNRV300)** running Android 2.1, see the community project [trmnl-nook-simple-touch](https://github.com/bpmct/trmnl-nook-simple-touch).
 
 ## Prerequisites
 - ADB (Android Debug Bridge)
