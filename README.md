@@ -21,7 +21,7 @@ This repository contains an Android application to turn your Nook e-reader into 
 ## Reported Working On
 - Nook Glowlight 4
 
-For **Nook Simple Touch (BNRV300)** running Android 2.1, see the community project [trmnl-nook-simple-touch](https://github.com/bpmct/trmnl-nook-simple-touch).
+For **Nook Simple Touch (BNRV300, BNRV350)** running Android 2.1, see the community project [trmnl-nook-simple-touch](https://github.com/bpmct/trmnl-nook-simple-touch).
 
 ## Prerequisites
 - ADB (Android Debug Bridge)
